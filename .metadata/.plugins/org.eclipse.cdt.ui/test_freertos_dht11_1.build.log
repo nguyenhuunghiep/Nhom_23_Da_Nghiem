@@ -1,0 +1,10 @@
+19:41:37 **** Incremental Build of configuration Debug for project test_freertos_dht11_1 ****
+make -j4 all 
+arm-none-eabi-size   test_freertos_dht11_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  35172	    128	   8096	  43396	   a984	test_freertos_dht11_1.elf
+Finished building: default.size.stdout
+ 
+
+19:41:37 Build Finished. 0 errors, 0 warnings. (took 365ms)
+
